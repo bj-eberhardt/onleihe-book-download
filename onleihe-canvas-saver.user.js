@@ -9,6 +9,8 @@
 //
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js
+// @updateURL    https://raw.githubusercontent.com/bj-eberhardt/onleihe-book-download//master/onleihe-canvas-saver.user.js
+// @downloadURL  https://raw.githubusercontent.com/bj-eberhardt/onleihe-book-download/master/onleihe-canvas-saver.user.js
 // ==/UserScript==
 
 
