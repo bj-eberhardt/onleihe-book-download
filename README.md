@@ -14,7 +14,7 @@ A userscript for **Greasemonkey** and **Tampermonkey** that detects the currentl
 2. Öffne die RAW-Version der Userscript-Datei:
 
 ```text
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/pdf-canvas-saver.user.js
+ https://raw.githubusercontent.com/bj-eberhardt/onleihe-book-download//master/onleihe-canvas-saver.user.js
 ```
 
 3. Der Userscript-Manager sollte die Datei automatisch als Userscript erkennen.
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/pdf-canvas-saver.user
 2. Open the RAW version of the userscript:
 
 ```text
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/pdf-canvas-saver.user.js
+ https://raw.githubusercontent.com/bj-eberhardt/onleihe-book-download//master/onleihe-canvas-saver.user.js
 ```
 
 3. Your userscript manager should automatically recognize the file.
